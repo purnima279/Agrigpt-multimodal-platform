@@ -1,0 +1,3 @@
+spring:
+  datasource: {url: "jdbc:h2:mem:t;MODE=MySQL;DB_CLOSE_DELAY=-1", username: sa, password: ""}
+agrigpt: {jwt: {secret: "test-secret-test-secret-test-secret-123"}}
